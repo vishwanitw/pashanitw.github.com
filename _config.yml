@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Pasha's Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: pasha.nitw@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: pashapluss
+github_username:  pashanitw
+facebook_username:  pasha.nitw
 
 # Build settings
 markdown: kramdown
